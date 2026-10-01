@@ -1,0 +1,5 @@
+# Core harness runs on Python 3.9+ stdlib (stub + Tinker HTTP client).
+# Optional: upgrade to Python >=3.11 and install `tinker` for the official SDK.
+# Optional: `openai` if you prefer that client for OpenAI-compatible endpoints.
+
+# No hard dependencies required for stub or current Tinker HTTP path.
